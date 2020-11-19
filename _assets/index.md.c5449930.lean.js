@@ -1,0 +1,1 @@
+import{g as t,f as s,C as c}from"./common-dca46cb9.js";const o='{"title":"","frontmatter":{},"relativePath":"index.md","lastUpdated":1605699523811.48}';var l={};const p=c('',4);l.render=function(c,o,l,e,a,i){return s(),t("div",null,[p])};export default l;export{o as __pageData};

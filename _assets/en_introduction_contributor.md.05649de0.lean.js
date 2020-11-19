@@ -1,0 +1,1 @@
+import{g as t,f as e,C as o}from"./common-dca46cb9.js";const r='{"title":"contributor","frontmatter":{},"relativePath":"en/introduction/contributor.md","lastUpdated":1605603092888.1433}';var a={};const c=o('',9);a.render=function(o,r,a,i,n,p){return e(),t("div",null,[c])};export default a;export{r as __pageData};

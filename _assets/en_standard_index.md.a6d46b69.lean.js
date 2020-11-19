@@ -1,0 +1,1 @@
+import{g as t,f as e,C as a}from"./common-dca46cb9.js";const r='{"title":"Writing Standard","frontmatter":{},"relativePath":"en/standard/index.md","lastUpdated":1605603739258.2207}';var i={};const n=a('',4);i.render=function(a,r,i,o,d,s){return e(),t("div",null,[n])};export default i;export{r as __pageData};
